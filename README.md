@@ -18,8 +18,6 @@ Parts of the virus’s RNA also code for proteins that stay in the host cell. At
 
 Fortunately, organizations around the world have been collecting data so that governments can monitor and learn from this pandemic. Notably, the Johns Hopkins University Center for Systems Science and Engineering created a publicly available data repository to consolidate this data from sources like the WHO, the Centers for Disease Control and Prevention (CDC), and the Ministry of Health from multiple countries.
 
-In this notebook, you will visualize COVID-19 data from the first several weeks of the outbreak to see at what point this virus became a global pandemic.
-
 
 # Built With 
 * [R](https://www.r-project.org/) - Programming language
