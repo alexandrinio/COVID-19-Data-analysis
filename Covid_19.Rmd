@@ -8,8 +8,13 @@ This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute
 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
 
 ```{r}
+library(readr)
+
 # Load the dataset
-confirmed_cases_worldwide <- read_csv()
+confirmed_cases_worldwide <- read_csv('world_wide_dataset.csv')
 ```
+
+
+
 
 
