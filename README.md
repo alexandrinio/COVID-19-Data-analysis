@@ -31,6 +31,10 @@ The company’s scientists quickly prepared the blood for analysis on a microflu
 
 # “You have the potential in your body to encode 100 billion different antibodies.”
 
+Starting in the fall of 2016 and continuing into 2018, researchers at Columbia University in Manhattan began collecting nasal swabs from 191 children, teachers, and emergency workers, asking them to record when they sneezed or had sore throats. The point was to create a map of common respiratory viruses and their symptoms, and how long people who recovered stayed immune to each one.
+
+The research included four coronaviruses, HKU1, NL63, OC42, and C229E, which circulate widely every year but don’t get much attention because they only cause common colds. But now that a new coronavirus in the same broad family, SARS-CoV-2, has the world on lockdown, information about the mild viruses is among our clues to how the pandemic might unfold.
+
 
 # Built With 
 * [R](https://www.r-project.org/) - Programming language
