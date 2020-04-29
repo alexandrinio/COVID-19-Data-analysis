@@ -29,6 +29,8 @@ The blood sample arrived in Vancouver by courier on February 25. It wasn’t muc
 
 The company’s scientists quickly prepared the blood for analysis on a microfluidic chip where individual immune cells can be isolated and their antibodies studied. Within three days, AbCellara CEO Carl Hansen says, the company had inspected 5 million cells and found 500 different excreted antibodies that stuck to the “spike” protein of the virus, potentially blocking it. Any one of these antibodies could be a cure for others infected.
 
+# “You have the potential in your body to encode 100 billion different antibodies.”
+
 
 # Built With 
 * [R](https://www.r-project.org/) - Programming language
