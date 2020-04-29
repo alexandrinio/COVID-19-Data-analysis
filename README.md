@@ -18,6 +18,13 @@ Parts of the virus’s RNA also code for proteins that stay in the host cell. At
 
 Fortunately, organizations around the world have been collecting data so that governments can monitor and learn from this pandemic. Notably, the Johns Hopkins University Center for Systems Science and Engineering created a publicly available data repository to consolidate this data from sources like the WHO, the Centers for Disease Control and Prevention (CDC), and the Ministry of Health from multiple countries.
 
+### Extra Info
+The US and other countries are scrambling to test hundreds of thousands of people to see if they are infected by the coronavirus. That test, which employs a technique called PCR, looks directly for the genetic material of the virus in a nasal or throat swab. It can tell people with worrisome symptoms what they need to know: Are they infected right now?
+
+But a swab cannot tell you if you’ve had the disease in the past—which means we may not understand the full extent of its spread, or whether large numbers of people have already been infected and recovered without showing symptoms.
+
+The answer to this is a different kind of test, one that can look at people’s blood to find the telltale traces that show if somebody’s immune system has been in contact with the virus. This procedure, known as a serological test, asks a different question—not “Does this person have coronavirus?” but “Has this person’s body ever seen the germ at all?”
+
 
 # Built With 
 * [R](https://www.r-project.org/) - Programming language
