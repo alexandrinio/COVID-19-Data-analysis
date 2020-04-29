@@ -25,6 +25,10 @@ But a swab cannot tell you if you’ve had the disease in the past—which means
 
 The answer to this is a different kind of test, one that can look at people’s blood to find the telltale traces that show if somebody’s immune system has been in contact with the virus. This procedure, known as a serological test, asks a different question—not “Does this person have coronavirus?” but “Has this person’s body ever seen the germ at all?”
 
+The blood sample arrived in Vancouver by courier on February 25. It wasn’t much to look at, but to the scientists at the 117-person biotechnology company AbCellera, it was precious. The blood had been drawn from an male survivor of covid-19 in the US. The company was told it was the very first blood sample made available by American authorities. The survivor’s blood was rich in immune cells oozing prong-shaped antibodies capable of seizing the new coronavirus and blocking it from infecting a cell. These molecules were the man’s own immune response to covid-19 and would likely protect him from getting infected again.
+
+The company’s scientists quickly prepared the blood for analysis on a microfluidic chip where individual immune cells can be isolated and their antibodies studied. Within three days, AbCellara CEO Carl Hansen says, the company had inspected 5 million cells and found 500 different excreted antibodies that stuck to the “spike” protein of the virus, potentially blocking it. Any one of these antibodies could be a cure for others infected.
+
 
 # Built With 
 * [R](https://www.r-project.org/) - Programming language
